@@ -1,3 +1,3 @@
 # hello-world
-new repositor
+new repository
 my name is zeroa, i'm a novice programmer :)
